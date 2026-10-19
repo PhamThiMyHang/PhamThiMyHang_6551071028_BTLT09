@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|c:\\users\\my hang\\downloads\\btlt8\\quuanlynhatro\\services\\diachiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|solutionrelative:services\\diachiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|c:\\users\\my hang\\downloads\\btlt8\\quuanlynhatro\\models\\qlnhatrocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|solutionrelative:models\\qlnhatrocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|c:\\users\\my hang\\downloads\\btlt8\\quuanlynhatro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|c:\\users\\my hang\\downloads\\btlt8\\quuanlynhatro\\models\\phongtro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|solutionrelative:models\\phongtro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|c:\\users\\my hang\\downloads\\btlt8\\quuanlynhatro\\models\\khachthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|solutionrelative:models\\khachthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|c:\\users\\my hang\\downloads\\btlt8\\quuanlynhatro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|c:\\users\\my hang\\downloads\\btlt8\\quuanlynhatro\\config\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|solutionrelative:config\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|c:\\users\\my hang\\downloads\\btlt8\\quuanlynhatro\\config\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|solutionrelative:config\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|c:\\users\\my hang\\downloads\\btlt8\\quuanlynhatro\\quuanlynhatro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|solutionrelative:quuanlynhatro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|c:\\users\\my hang\\downloads\\btlt8\\quuanlynhatro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|c:\\users\\my hang\\downloads\\btlt8\\quuanlynhatro\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|solutionrelative:appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|c:\\users\\my hang\\downloads\\btlt8\\quuanlynhatro\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B690457C-DF8C-41B6-8ED5-2D12FEF0C909}|QuuanLyNhaTro.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiaChiService.cs",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\Services\\DiaChiService.cs",
+              "RelativeDocumentMoniker": "Services\\DiaChiService.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\Services\\DiaChiService.cs",
+              "RelativeToolTip": "Services\\DiaChiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T04:05:08.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T03:53:45.546Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QlNhaTroContext.cs",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\Models\\QlNhaTroContext.cs",
+              "RelativeDocumentMoniker": "Models\\QlNhaTroContext.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\Models\\QlNhaTroContext.cs",
+              "RelativeToolTip": "Models\\QlNhaTroContext.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T03:59:43.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhongTro.cs",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\Models\\PhongTro.cs",
+              "RelativeDocumentMoniker": "Models\\PhongTro.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\Models\\PhongTro.cs",
+              "RelativeToolTip": "Models\\PhongTro.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T04:00:40.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KhachThue.cs",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\Models\\KhachThue.cs",
+              "RelativeDocumentMoniker": "Models\\KhachThue.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\Models\\KhachThue.cs",
+              "RelativeToolTip": "Models\\KhachThue.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T04:00:11.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T04:11:22.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\Config\\AppConfig.cs",
+              "RelativeDocumentMoniker": "Config\\AppConfig.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\Config\\AppConfig.cs",
+              "RelativeToolTip": "Config\\AppConfig.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T04:10:59.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\Config\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Config\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\Config\\AppSettings.cs",
+              "RelativeToolTip": "Config\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T04:10:41.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.example.json",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\appsettings.example.json",
+              "RelativeDocumentMoniker": "appsettings.example.json",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\appsettings.example.json",
+              "RelativeToolTip": "appsettings.example.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-19T04:07:51.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-19T04:06:52.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuuanLyNhaTro",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\QuuanLyNhaTro.csproj",
+              "RelativeDocumentMoniker": "QuuanLyNhaTro.csproj",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\QuuanLyNhaTro.csproj",
+              "RelativeToolTip": "QuuanLyNhaTro.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-19T04:04:46.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\BTLT8\\QuuanLyNhaTro\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-19T04:07:15.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
